@@ -1,0 +1,19 @@
+.main {
+    background-color: #ee8ba9;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#important {
+    color: #0343f5;
+    font-size: 36px;
+}
+
+.extra {
+    font-size: 24px;
+}
+
+#also-important {
+    background-color: #55ee50;
+    font-size: 24px;
+    font-weight: bold;
+}
